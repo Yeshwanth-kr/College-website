@@ -1,6 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="./src/assets/college_page.png" alt="Screenshot of College website" width="80%">
+<p>Click <a href="https://yeshwanth-kr.github.io/college-website/" target="main">here</a> to visit the website.</p>
+
 
 Currently, two official plugins are available:
 
