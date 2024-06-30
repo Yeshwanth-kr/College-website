@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
-      <p>All rights reserved by <a href="https://yeshwanthkrishna.netlify.app/" target='main'>Yeshwanth Krishna</a>. Visit for more.</p>
+      <p>All rights reserved by <a href="https://yeshwanth-kr.github.io/" target='main'>Yeshwanth Krishna</a>. Visit for more.</p>
       <ul>
         <li>Terms of Services</li>
         <li>Privacy Policy</li>
